@@ -1,4 +1,4 @@
-# Olá, eu sou [Coballak] 👋
+# Olá, eu sou [Bruno Mends] 👋
 
 Bem-vindo ao meu perfil no GitHub! Sou um entusiasta de **Cibersegurança**, focado na área de **Blue Team**, com o objetivo de me tornar um **SOC Analyst** e **Threat Hunter**. Atualmente, estou em transição de carreira e me aprofundando em estudos de **Defensive Security**, com ênfase em **análise de redes**, **monitoramento de segurança** e **resposta a incidentes**.
 
