@@ -113,13 +113,9 @@ I believe in design that is **intentional, measurable, and executable**.
 
 ## 📫 Let’s Connect
 
-- LinkedIn: *[add your link]*
-- Behance: *[add your link]*
+- **Email**: [hi@setz.dev]
+- **LinkedIn**: [(https://www.linkedin.com/in/setz-dev/)]
 
 ---
 
 ⭐ Feel free to explore the projects and follow the evolution.
-
-
-- **Email**: [hi@setz.dev]
-- **LinkedIn**: [(https://www.linkedin.com/in/setz-dev/)]
