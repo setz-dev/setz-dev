@@ -1,4 +1,4 @@
-# 👋 Hi, [Setz] here!
+# 👋 Hi, [Bruno] here!
 
 I’m a **UI-focused Front-End Developer and Product Designer** with a strong emphasis on **high-conversion digital experiences**, modern interface design, and visually impactful solutions.
 
